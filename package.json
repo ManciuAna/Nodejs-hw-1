@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "commander": "^13.1.0",
+    "uuid": "^11.0.5",
+    "yargs": "^17.7.2"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "name": "nodejs-hw-01",
+  "version": "1.0.0",
+  "description": "hw",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElsaSer/nodejs-hw-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElsaSer/nodejs-hw-01/issues"
+  },
+  "homepage": "https://github.com/ElsaSer/nodejs-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
